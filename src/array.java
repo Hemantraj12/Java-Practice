@@ -288,6 +288,8 @@ public class array {
 
 //            }
 //            System.out.println(" ");
+
+        System.out.println("hello");
 //
 
      //   }
