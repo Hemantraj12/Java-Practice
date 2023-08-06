@@ -303,7 +303,8 @@ public class array {
 //        int c = a+b;
 //        System.out.println(c);
 
-
+ int a = 45;
+        System.out.println(a);
 
 
 
