@@ -1,5 +1,5 @@
-import java.util.*;
-import java.util.Scanner;
+
+//import java.util.Scanner;
 
 //        int[] marks = new int[3];
        // int marks[] = new int[3];
@@ -229,8 +229,7 @@ import java.util.Scanner;
         //            System.out.println("The Array is not sorted");
         //        }
 
-public class array {
-    public static void main(String[] args) {
+//
 
 //        float [] marks = {58.3f, 98.47f, 55.98f, 224.78f, 558.47f};
 //        float sum = 0;
@@ -289,7 +288,7 @@ public class array {
 //            }
 //            System.out.println(" ");
 
-        System.out.println("hello");
+//        System.out.println("hello");
 //
 
      //   }
@@ -305,8 +304,32 @@ public class array {
 //        int c = a+b;
 //        System.out.println(c);
 
- int a = 45;
-        System.out.println(a);
+// int a = 45;
+//        System.out.println(a);
+
+
+//                    Scanner sc = new Scanner(System.in);
+//                    int a = sc.nextInt();
+//                            System.out.println("Enter your first number");
+//                int b = sc.nextInt();
+//                int sum = a+b;
+//
+//        System.out.println("Your Answer is: ");
+//
+//
+//                            System.out.println(sum);
+
+public class array {
+    public static void main(String[] args) {
+        Main calculator1 = new Main();
+        calculator1.add(3, 4);
+        calculator1.subtract(5, 4);
+        calculator1.multiply(5, 9);
+        calculator1.divide(8, 4);
+
+    }
+
+}
 
 
 
